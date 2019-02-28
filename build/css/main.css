@@ -5105,7 +5105,14 @@ header {
   border: none !important;
   left: -20px;
   top: 1px;
-  position: relative; }
+  position: relative;
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+  transition: 1s; }
+  .logotype:hover {
+    -webkit-transform: scale(1.05);
+        -ms-transform: scale(1.05);
+            transform: scale(1.05); }
 
 .header-background {
   height: 450px;
