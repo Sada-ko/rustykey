@@ -1284,7 +1284,7 @@ header {
     margin-bottom: 27px; }
   .kaffa-view .description {
     position: absolute;
-    bottom: 9px;
+    bottom: 11px;
     width: 250px;
     right: 32px; }
 
@@ -1388,7 +1388,8 @@ header {
   width: 627px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 187px; }
+  padding-left: 187px;
+  margin-bottom: 5rem; }
   .espresso-cups img {
     position: absolute;
     left: -1px;
